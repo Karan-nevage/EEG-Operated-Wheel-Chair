@@ -40,7 +40,7 @@ We extend our heartfelt gratitude to our mentors who guided us throughout this p
 
 A proud moment with our EEG-operated wheelchair, captured alongside our college guide and external examiners during the final presentation.
 
-![Wheelchair Presentation](https://media.licdn.com/dms/image/v2/D562DAQGdRsqTHGvR3Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1733332754368?e=1754834400&v=beta&t=UMLpNg2owbu94RlE-vfT5zz5RXM7-gjlIjLOqB-Y6-o)
+![Wheelchair Presentation](https://media.licdn.com/dms/image/v2/D562DAQGdRsqTHGvR3Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1733332754368?e=1757142000&v=beta&t=dXyAQrdFamvLJ3uPNJjlcWjLyGOqouO-5WZQy7pmCIY)
 
 > _“Innovation meets recognition—EEG-powered mobility in action.”_
 
